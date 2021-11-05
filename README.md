@@ -21,6 +21,7 @@ For this project, I was tasked to act as an offensive security, Red Team, to exp
 
 
 **Day 1**
+
 Discover the IP address of the Linux web server.
 - The IP addres of the Linux web server is 192.168.1.105. This was found through both NetDiscover and Nmap. 
 [![netdiscover.png](https://i.postimg.cc/G2P9LScR/netdiscover.png)](https://postimg.cc/tZT9DkZv)
