@@ -13,7 +13,7 @@ Eric Holsinger
 
 
 
-Overview
+1. Overview
 
 For this project, I was tasked to act as an offensive security, Red Team, to exploit a vulnerable Capstone VM. I was then tasked to use Kibana to analyze logs taken during the Red Team attack. As I analyzed, I used the data to develop ideas for new alerts that can improve my monitoring as the Blue Team. Even though I already knew what I did to exploit the target, analyzing the logs is still valuable as it teaches me: what my attack looks like from a defender's perspective, how stealthy or detectable my tactics are, and which kinds of alarms and alerts SOC and IR professionals can set to spot attacks like mine while they occur, rather than after. Finally, I was tasked to communicate your findings in the form of a presentation to my staff. However, in a real engagement, my client will pay me not to break into their network, but to teach them how to protect it. This is why both written and verbal communication skills are vital in the cybersecurity field.
 
